@@ -10,7 +10,7 @@ ambiental; além de oportunizar maior contato e afetuosidade entre os munícipes
 ## Confira nossos mapas:
 
  - [Mapa de Feiras](https://www.google.com/maps/d/u/0/viewer?hl=pt-BR&mid=1p9XUE8NdhAflxFTDtRn9AT4LZs7wKTWT&ll=-22.236435077790812%2C-53.34569391545007&z=15)
- - [Mapa de Hortas](https://www.google.com/maps/d/u/0/viewer?hl=pt-BR&mid=1p9XUE8NdhAflxFTDtRn9AT4LZs7wKTWT&ll=-22.236435077790812%2C-53.34569391545007&z=15)
+ - [Mapa de Hortas](https://www.google.com/maps/d/u/4/viewer?hl=pt-BR&mid=160ALSdlyuH-wGyPcoZ2Z38oNnou9_CA&ll=-22.237311240146212%2C-53.32398934567409&z=12)
 
 ## Quer Saber Mais?
 
