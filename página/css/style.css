@@ -1,5 +1,6 @@
 :root{
-    --green: #80dc54;
+    --primary: #80dc54;
+    --secondary: #80dc54;
 }
 
 *{
@@ -8,5 +9,12 @@
 }
 
 body{
-    background-color: var(--green);
+    background-color: var(--primary);
+}
+
+.block-container{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: var(--secondary);
 }
