@@ -1,0 +1,12 @@
+:root{
+    --green: #80dc54;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--green);
+}
