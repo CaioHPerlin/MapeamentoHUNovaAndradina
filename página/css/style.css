@@ -25,10 +25,6 @@ body{
     background-color: var(--primary);
 }
 
-h2{
-    font-size: 32px;
-}
-
 header{
     text-align: center;
     height: 85px;
@@ -40,7 +36,6 @@ section{
 }
 
 section>h2{
-    font-size: 24px;
     margin-left: auto;
     margin-right: auto;
     width: fit-content;
